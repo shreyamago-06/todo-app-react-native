@@ -35,6 +35,8 @@ export default function App() {
             )
           })
         }
+        
+        {/* Prdefined - static list check */}
       {/* <Task text = {'Task 1'}/>
       <Task text = {'Task 2'}/> */}
       </View>
